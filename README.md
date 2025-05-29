@@ -4,19 +4,19 @@ An intelligent research assistant built with the Agno Agent framework, Together 
 
 ## 🚀 **Features**
 
-🧠 AI-Driven Question Generation
+### 🧠 AI-Driven Question Generation
 
 Automatically generates 5 tailored yes/no research questions based on your topic and selected domain
 
 Focuses on clarity and specificity for actionable research outcomes
 
-🔍 Multi-Source Web Research
+### 🔍 Multi-Source Web Research
 
 Integrates Tavily Search and Perplexity AI for comprehensive, multi-perspective insights
 
 Combines search results into coherent summaries
 
-📄 Executive-Level Report Generation
+### 📄 Executive-Level Report Generation
 
 Compiles findings into a McKinsey-style structured report
 
@@ -24,7 +24,7 @@ Includes executive summary, key findings, and conclusion
 
 Automatically exported to Google Docs for easy sharing
 
-💻 Streamlit-Based UI
+### 💻 Streamlit-Based UI
 
 Intuitive interface with clear step-by-step workflow
 
@@ -32,7 +32,7 @@ Real-time research progress tracking
 
 Expandable sections to explore source-level insights
 
-⚙️ How to Run
+## ⚙️ How to Run
 
 1. Clone the Repository
 
@@ -57,7 +57,7 @@ Expandable sections to explore source-level insights
 
    streamlit run ai_powered_deep_research_agent.py
 
-🧪 How to Use
+## 🧪 How to Use
 
    Enter API keys via the sidebar.
 
@@ -71,7 +71,7 @@ Expandable sections to explore source-level insights
 
    Access your formatted report in both the app and Google Docs.
 
-🔍 Example Use Cases
+## 🔍 Example Use Cases
 
    Academic Research: Literature scans and topic exploration
 
@@ -81,7 +81,7 @@ Expandable sections to explore source-level insights
 
    Tech Evaluation: Review of emerging technologies and adoption readiness
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
    Component	Purpose
 
@@ -93,7 +93,7 @@ Expandable sections to explore source-level insights
 
    Streamlit	User interface and frontend logic
 
-📦Dependencies
+## 📦Dependencies
 
    agno
 
