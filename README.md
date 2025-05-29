@@ -2,7 +2,7 @@
 
 An intelligent research assistant built with the Agno Agent framework, Together AI’s Qwen model, and Composio tools. InsightAgent streamlines complex research by generating tailored research questions, sourcing answers from multiple web engines, and compiling structured, professional-grade reports—automatically delivered to Google Docs.
 
-🚀 Features
+🚀 **Features**
 🧠 AI-Driven Question Generation
 Automatically generates 5 tailored yes/no research questions based on your topic and selected domain
 
